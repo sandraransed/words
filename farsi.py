@@ -13,23 +13,18 @@ class Words:
         return self.swedish_word
 
 def choose_file():
-    i = 0
-    while i < 1:
-        user_input = input("\nVill du öva ord du kan (1) eller ord du är osäker på (2)?\nFör att avsluta, skriv 'Avsluta'\n")
+    print("\nVill du öva ord du kan (1) eller ord du är osäker på (2)?\nFör att avsluta, skriv 'Avsluta'\n")
+    while True:
+        user_input = input("")
         if user_input == "1":
-            user_file_choice = "ordjagkan.txt"
-            i = 1
+            return "ordjagkan.txt"
         elif user_input == "2":
-            user_file_choice = "ordjagintekan.txt"
-            i = 1
+            return "ordjagintekan.txt"
         elif user_input.lower() == "avsluta":
             print("Bye!")
-            user_file_choice = None
-            i = 1
+            return None
         else:
             print("Skriv in 1 eller 2")
-
-    return user_file_choice
 
 def import_database(user_file_choice):
     read_file = open(user_file_choice, 'r', encoding="utf-8")
