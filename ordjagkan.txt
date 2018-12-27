@@ -1,0 +1,137 @@
+salam:hej
+shadahfes:hej då
+khobi:hur mår du
+khobam:jag mår bra
+man:jag
+tå:du
+o:hon eller han
+shoma:ni
+ma:vi
+anha:dem
+indja:här
+ondja:där
+befarmain:varsågoda
+machine:bil
+car:jobb
+tjikar:vad
+mikoni:gör du
+tjikarmikoni:vad gör du
+ab:vatten
+panir:ost
+kare:smör
+shir:kran mjölk lejon
+famidi:förstår du
+bea:kom
+baladi:kan du
+farsi:persiska
+abi:blå
+ast:är
+hastam:jag är
+hasti:du är
+khar:åsna
+khargosh:kanin
+gosh:öra
+shirini:godis
+shayad:kanske
+yek:ett
+da:två
+ce:tre
+tjahar:fyra
+pansh:fem
+shish:sex
+haft:sju
+hasht:åtta
+no:nio
+da:tio
+bist:tjugo
+ci:trettio
+tjehel:fyrtio
+pandja:femtio
+chast:sextio
+hafdad:sjuttio
+hastdad:åttio
+navad:nittio
+sad:hundra
+zard:gul
+polo:ris
+halettjetore:hur mår du
+gorbeh:katt
+sag:hund
+sorati:rosa
+bastani:glass
+sard:kall
+baron:regn
+byron:ute
+barf:snö
+chai:te
+gahve:kaffe
+michai:vill du ha
+micham:jag vill ha
+nemedonam:jag vet inte
+nemetonam:jag kan inte
+dosteman:min kompis
+doste:kompis
+dast:hand
+baba:pappa
+maman:mamma
+ame:faster
+amo:farbror
+dai:morbror
+khale:moster
+kheli:mycket
+khob:bra
+merci:tack
+khaheshmikonam:varsågod
+lamp:lampa
+gol:blomma
+zan:kvinna
+mard:man
+khosh:fin
+khogeleman:min fina
+pesar:pojke
+dokhtar:flicka
+otobus:buss
+ghatar:tåg
+madresse:skola
+dars:läxa
+sar:huvud
+chi:vad
+migi:säger du
+chimigi:vad säger du
+shjabbekheir:godnatt
+sobhbekheir:godmorgon
+saat:klocka
+mahi:fisk
+dard:ont
+ghashang:vacker
+zib:äpple
+kochik:liten
+kam:lite
+bozorg:stor
+medad:penna
+ketab:bok
+sandali:stol
+miz:bord
+boland:lång
+emroz:idag
+fardah:imorgon
+diroz:igår
+roz:dag
+khone:hem
+mankhonehastam:jag är hemma
+miram:jag går
+raftan:går
+mo:hår
+mojeboland:långt hår
+shab:kväll
+soph:morgon
+sabzi:sallad
+sabz:grön
+suedi:svenska
+arre:ja
+baleh:ja
+tjeshm:ögon
+anar:granatäpple
+parande:fågel
+tavalodetmobarak:grattis på födelsedagen
+vali:men

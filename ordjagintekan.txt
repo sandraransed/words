@@ -1,0 +1,33 @@
+abr:moln
+khosid:sol
+portaghal:apelsin
+khordan:äta
+chikhordi:vad åt du
+chimichori:vad äter du
+manmichoram:jag äter
+michori:vill du dricka
+ghaza:mat
+dorost:bygga
+pokhtan:tillaga
+chimipazi:vad lagar du
+mipazi:lagar du
+khoresht:gryta
+derakht:träd
+sohbathkardan:tala
+asaman:himlen
+chedjor:vilken
+sarii:snabb
+aheste:långsam
+asb:häst
+gorosne:hungrig
+teshne:törstig
+khoshal:glad
+narahat:ledsen
+sasht:svårt
+siad:mycket
+saade:lätt
+sool:fred
+shalvar:byxor
+siah:svart
+hardå:båda
+peste:pistach
